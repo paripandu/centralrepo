@@ -1,5 +1,5 @@
 FROM centos:latest
-MAINTAINER parikshitkudalkar4@gmail.com
+MAINTAINER sanjay.dahyia332@gmail.com
 RUN yum install -y httpd \
   zip \
  unzip
